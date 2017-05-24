@@ -21,36 +21,36 @@ https://vesselstech.com/team/kevin_resume.pdf
 
 ## Describe the proposed approach (1/2 page). Please include brief technical description of your proposed approach and why you expect it to achieve results.
 
-Idea 1: Information & Reminders Tool
+Idea 1: Information & Reminders Tool (G2P)
 
-In the PPPP program, all beneficiaries are required to comply with a number of different criteria, such as attending parenting meetings or taking their children to health clinics for vaccinations. A chatbot tool for (1) subscribing to regular event reminder notifications and (2) making the compliance information more accessible may have potential for existing beneficiaries of the program.
+In the PPPP program, beneficiaries must fulfill different criteria, such as attending meetings, or taking their children to health clinics. A chatbot tool for (1) sending regular event reminder notifications and (2) making compliance information more accessible may have potential for existing beneficiaries of the program.
 
-Idea 2: Automatic Update Process
+Idea 2: Automatic Update Process (G2P)
 
-Beneficiaries are responsible for updating their information when their circumstances change, such as a new child being born, or moving to a new location. The program specifies 12 different types of updates, each with their own supporting documents that need to be submitted. A chatbot for making this process easier and more accessible could help beneficiaries to submit these updates and ensure they are complying with the program's requirements.
+Beneficiaries are responsible for updating their information when their circumstances change. The program specifies 12 different types of updates, each with their own supporting documents that need to be submitted. A chatbot for making this process simpler and more accessible could help beneficiaries to submit these updates and ensure they are complying with the program's requirements.
 
-Idea 3: Automate the Grievances Process
+Idea 3: Automate the Grievances Process (G2P)
 
-When an issue arises with a beneficiary's payments, they can file a grievance to resolve the issue. This current process is available over sms, but requires manual data entry. A chatbot could be used to help automate and improve this process for both the beneficiary and the case worker handling the grievance application.
+When an issue arises with a beneficiary's payments, they can file a grievance to resolve the issue. This current process is available over SMS, but requires manual data entry. A chatbot could help automate and improve this process for both the beneficiary and the case worker handling the grievance application.
 
 Prototyping Phase Approach:
 
 1. Research and Relationships
 Starting from our 3 ideas, conduct research and reach out to stakeholders and beneficiaries in the program. These relationships will serve as a platform for need finding, user testing and idea validation.
 
-2. Need Finding
-From research in step 1, we should have be able to identify 3–4 areas within the program where (we think) chatbots have the most potential. This may be the three ideas we already have, but we also need to be prepared to scrap them and do something else if our research says otherwise.
+2. Need Finding
+From step 1, we should be able to identify 3–4 areas within the program where (we think) chatbots have potential. These areas may be based  on our original ideas, but we must be prepared to scrap them if our research says otherwise.
 
 3. Idea Validation
-Build a simple, flowchart based prototype (no more than a day of work!), and conduct in-person interviews with beneficiaries & stakeholders in the program. Try to validate our assumptions from steps 2. Be prepared to go back to step 2.
+Build a simple, flowchart based prototype (no more than a day of work!), and conduct in-person interviews with PPPP's beneficiaries & stakeholders. Try to validate our assumptions from steps 2. Be prepared to go back to step 2.
 
 4. Consolidation and Prioritisation
 Once we have validated these ideas, pick 2 or 3 possible features to build from our original 3–4 areas. A feature is a single piece or even conversation that the chatbot can have. Prioritize based on (1) beneficiary value and (2) simplicity.
 
-5. Build Build Build
-Build the prototype. Focus on SMS first, Tagalog (& English) implementations. Follow Technology approach (below).
+5. Build Build Build
+Build the prototype. Focus on SMS first, Tagalog (& English) implementations. Follow Technology approach.
 
-6. User Testing
+6. User Testing
 Take back to our program stakeholders and beneficiaries, and see what they think. Identify key areas for improvement, and any show stoppers in preparation for building the MVP.
 
 
@@ -66,13 +66,13 @@ Prove Value ASAP:
 We will build our prototype using pre-built NLP tools — such as Wit.ai. This is not viable in the long run, as keeping user’s data private is important.
 
 SMS First Design:
-SMS allows the chatbot to be accessible to a wide audience, and also limits the data usage required by the end user. Once we have built the chatbot for SMS, we will integrate popular Filipino chat applications. This will grow the available features, such as support for IVR.
+SMS allows the chatbot to be accessible to a wide audience, and also limits the data required by the end user. Once we have built the chatbot for SMS, we will integrate popular Filipino chat applications. This will grow the available features, such as support for IVR.
 
 Agile Approach:
 Building one complete feature at a time - helping us to focus on the end user. This way we can drive real value to PPPP's beneficiaries and program stakeholders, while growing the application organically.
 
 Scalable & Reusable:
-Our technology needs to be specific enough for the use case at hand, but also general enough that we can apply it elsewhere and mould it to a new use case. This ensures that the system and our approaches can scale.
+Our technology must be specific enough for the PPPP program, but general enough that we can apply it elsewhere and mould it to a new use case. This ensures that the system and our approaches can scale.
 
 
 ## What country will you work in?
@@ -87,30 +87,30 @@ The Pantawid Pamilyang Pilipino Program (PPPP, or 4Ps)
 
 MARVI:
 
-MARVI stands for Managed Aquifer Recharge for Village level Intervention. The aim of Marvi is to improve the water security and enhance the livelihood for rural communities in India. Marvi has been running for the last 5 years, with a team spanning ... I personally have been involved for the last 2, as the project leaders seeked to incorporate a technology component into the project.
+Marvi stands for Managed Aquifer Recharge for Village level Intervention. The aim of Marvi is to improve the water security and enhance the livelihood for rural communities in India. Marvi has been running for the last 5 years, with a team across Australia and India. We have been involved for the last 2 years, as the project leaders sought to incorporate a technology component into the project.
 
-Marvi has involved a multi-faceted approach to improving the groundwater situation in India. From education in schools about water conversation, to installing and training farmers on how to use and measure well and rainfall levels. The thread connecting each of these approaches is the ground level approach to getting citizens engaged in the science and intervention...
+Marvi has taken a multi-faceted approach to improving the groundwater situation in India. This involves water conversation education in schools, training for farmers, and community meetings about water issues. The thread connecting each of these approaches is the ground level approach to building communities around sharing groundwater.
 
-In our involvement with Marvi, we have gained experience building technology that is relevant to the end user, and is built to suit their needs. We have also seen first hand the fact that technology is simply a tool; without proper support, training and implementation of technology, it is a waste. Also, we have had experience working with other teams of researchers (playing a supporting role, understand now how these types of projects work...)
+In our involvement with Marvi, we have gained experience building technology that is relevant to the end user, and made to suit their needs. We have also seen first hand that technology is only a tool; and requires support, training and maintenance.
 
 MyWell:
 
-The product of our involvement with Marvi has been MyWell, an app for crowdsourcing groundwater and rainfall readings in rural India. By crowdsourcing these readings, MyWell removes the need for paper based recordings, spreadsheets and copious amounts of email. Additionally, it will allow Marvi to scale up from 10 villages to hopefully hundreds or even thousands (eep!).
+The product of our involvement with Marvi has been MyWell, an app for crowdsourcing groundwater and rainfall readings in rural India. By crowdsourcing these data, MyWell removes the need for paper based recordings, spreadsheets and copious amounts of email. Additionally, it will allow Marvi to scale up from 10 villages to hundreds or even thousands.
 
-MyWell also has a number of data analysis and visualization tools, allowing farmers to easily visualise the change in water levels from one year to another - a vital statistic
+MyWell also has data analysis and visualization tools, which allow farmers to easily visualise the change in water levels from one year to another.
 
 We have learned:
-- How to work on a team without other technologists like myself! (it's not so easy, is it?)
+- How to work on a team without other technologists.
 - What works (and what doesn't work) when building technology for people from other countries and cultures. It's too easy to make assumptions that are patently wrong!
 - Experience in building software that suits others needs - for example, the first version of MyWell was SMS only
 
 SMSCollect:
 
-SMSCollect is a chatbot data collection platform we are building to better facilitate data collection over SMS.
+SMSCollect is a chatbot data collection platform we are building to make data collection over SMS easier.
 
-There are are a number of other tools for SMS data collection, but they are limited in their flexibility and ease of use. Many require command-prompt like messages, or rely on long questions and answer formats to work. SMSCollect aims to turn data collection into a conversational process, with the end goal being a platform for SMS based applications, powered by the latest in AI and NLP technology.
+There are are other tools for SMS data collection, but they lack flexibility and ease of use. Many require command-prompt like messages, or rely on long question and answer formats to work. SMSCollect aims to turn data collection into a conversational process. The end goal being a platform for SMS based applications, powered by the latest in AI and NLP technology.
 
-We are currently in the prototyping phase of building SMSCollect, and have identified a number of customers who we are building it for.
+We are currently in the prototyping phase of SMSCollect, and have identified some customers who we are working towards on boarding.
 
 It's no stretch of the imagination to see this working directly with the DFS chatbot challenge. We already have existing infrastructure that we can recycle, and experience integrating with SMS platforms.
 
@@ -136,12 +136,12 @@ Marvi's University Website: https://www.westernsydney.edu.au/marvi/managed_aquif
 
 ## Describe the team that you will bring to work on the project. Include key bios, short description of group/lab/company.
 
-Vessels is a startup focusing on building digital tools for the developing world. Broadly, our purpose is to use technology to help people. We aim to do that through:
+Vessels is a startup focusing on building digital tools for the developing world. Our purpose is to use technology to help people. We aim to do that through:
 - Building our own products and innovations
-- Research into how technology can be used in Low Income Countries
-- Working with existing programs that need our IT skills.
+- Research technology applications in Low Income Countries
+- Working with existing programs that need our IT skills
 
-We have a special interest in chatbots & mobile finance - two areas in which we see a great potential for helping people in Low income countries.
+We have a special interest in chatbots & mobile finance - two areas in which we see a great potential in low income countries.
 
 The Team:
 
@@ -153,7 +153,7 @@ Role: Product Management/Software Engineering
 
 Kevin:
 Role: Software Engineer/UI Design
-- Software Engineering & Electrical Engineering at Flinders University (2018)
+- Software Engineering & Electronic Engineering at Flinders University (2018)
 - Experience in software systems engineering & full stack web development
 
 Yen:
